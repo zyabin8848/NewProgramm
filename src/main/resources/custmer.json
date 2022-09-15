@@ -1,0 +1,69 @@
+[
+  {
+    "firstName": "R",
+    "lastName": "J",
+    "email": "RJ@data.com",
+    "password": "rj@123",
+    "role" : [
+      {
+        "name": "Admin",
+        "dept": "Engg."
+      },
+      {
+        "name": "User",
+        "dept": "Science"
+      }
+    ]
+  },
+  {
+    "firstName": "R1",
+    "lastName": "J1",
+    "email": "RJ1@data.com",
+    "password": "rj1@123",
+    "role" : [
+      {
+        "name": "R3",
+        "dept": "SC3"
+      },
+      {
+        "name": "R4",
+        "dept": "SC4"
+      }
+    ]
+  },
+  {
+    "firstName": "R3",
+    "lastName": "J3",
+    "email": "RJ3@data.com",
+    "password": "rj3@123",
+    "role" : [
+      {
+        "name": "R7",
+        "dept": "SC7"
+      },
+      {
+        "name": "R7",
+        "dept": "SC7"
+      }
+    ]
+  },
+  {
+
+
+
+    "firstName": "R4",
+    "lastName": "J4",
+    "email": "RJ4@data.com",
+    "password": "rj4@123",
+    "role" : [
+      {
+        "name": "R8",
+        "dept": "SC8"
+      },
+      {
+        "name": "R8",
+        "dept": "SC8"
+      }
+    ]
+  }
+]
